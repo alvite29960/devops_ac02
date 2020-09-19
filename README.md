@@ -5,7 +5,11 @@ Criando o repositório via interface web (Capturar 01)
 Git clone - (Capturar 02)  
 Ls - com clone (Capturar 03)  
 Git Fecth (Capturar 04)  
-Git Chechout (Capturar 05)
-    
+Git Checkout (Capturar 05)  
+Git Status (Capturar 07)  
+Git Add (Capturar 07)  
+Commit (Capturar 08)  
+Git Push (Capturar 08)  
+
 
 
